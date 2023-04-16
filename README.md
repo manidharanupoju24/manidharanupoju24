@@ -1,6 +1,6 @@
 ## Hi there! I'm Manidhar. Glad to see you here 👋 
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/manidhar-anupoju-555726169">
