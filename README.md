@@ -1,5 +1,7 @@
 ## Hi there! I'm Manidhar. Glad to see you here 👋 
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 ## About me :raised_hand:
   - I'm currently working as Devops Engineer
   - I'm currently learning Go and Node.js 😄
