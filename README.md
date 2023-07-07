@@ -36,7 +36,7 @@
   - Senior Software Engineer at [Optum Global Solutions](https://www.optum.com/)
 --> 
 ## My personal CV
-  - https://uchihaitachi24.github.io/CV/
+  - https://manidharanupoju24.github.io/CV/
   
 
 ## :fire: My Stats :
