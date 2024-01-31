@@ -24,7 +24,7 @@
  
  ## My certifications
  <a href="https://www.credly.com/badges/55608cd8-6f30-4d95-9c68-02a8efcbee71/public_url"><img src="https://user-images.githubusercontent.com/14066476/235327894-8a0b01d6-d802-4f15-a037-280203888125.png" width="60" height="60"></a>
- <a href="https://www.credly.com/badges/c0486fa6-b132-4d45-b2e5-26754415eadb/public_url"><img src="https://github.com/manidharanupoju24/manidharanupoju24/assets/14066476/f1b485a9-fc65-4136-9660-b91c465e977b" width="60" height="60"></a>
+ <a href="https://www.credly.com/badges/c0486fa6-b132-4d45-b2e5-26754415eadb/public_url"><img src="https://github.com/manidharanupoju24/manidharanupoju24/assets/14066476/f1b485a9-fc65-4136-9660-b91c465e977b" width="65" height="65"></a>
  
  <!--
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/14066476/235327894-8a0b01d6-d802-4f15-a037-280203888125.png)
